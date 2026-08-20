@@ -77,3 +77,5 @@ Para desplegar la base de datos localmente, ejecuta los scripts en el siguiente 
 
 ---
 
+Sergio Ajù
+
